@@ -10,3 +10,10 @@
     background-color: #7E1F86;
     color: white;
 }
+.animation-padding {
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.brand-padding {
+    padding-left: 10px;
+}
