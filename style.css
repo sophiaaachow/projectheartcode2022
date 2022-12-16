@@ -17,3 +17,10 @@ h1, h2, h3, h4, h5, th {
     background-color: #7E1F86;
     color: white;
 }
+.animation-padding {
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.brand-padding {
+    padding-left: 10px;
+}
